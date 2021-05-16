@@ -5,4 +5,4 @@
 * Qt Creator 5.15
 
 ### How to build
-If you want to build this project you need to configure VS first. I will add the guide soon.
+If you want to build this project you need to configure VS first. I will add guide soon.
